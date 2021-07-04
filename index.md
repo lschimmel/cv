@@ -1,37 +1,84 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
 
-You can use the [editor on GitHub](https://github.com/lschimmel/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+  <meta charset="utf-8">
+  <title>Lexy's Webpage</title>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
 
-### Markdown
+    <table cellspacing="400">
+    <tr>
+    <td>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+      <h1>L</h1>
+      <h1>E</h1>
+      <h1>X</h1>
+      <h1>Y</h1>
 
-```markdown
-Syntax highlighted code block
+      </td>
+      <td>
+        <img src="lexy_profile.JPG", alt="It's me!">
+      </td>
+    </tr>
+    </table>
+    <p><em>Data Analyst and Full Stack Coder in training</em></p>
+    <p>You just found me.</p>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+  <hr />
+  <h3>Projects</h3>
+  <ol><li><st>Stanford Code in Place 2021 Final Project: </st><a href="https://codeinplace.stanford.edu/2021/showcase/172">CHARTING SWEARING (in Billboard Top 100 Music Charts)</a> </li>
 
-**Bold** and _Italic_ and `Code` text
+  </ol>
+  <hr>
+  <h3>Education</h3>
+  <p>Queen's University</p>
+  <ol type="i">
+    <li>Undergraduate - 2013</li>
+    <li>Master's of Science- 2016</li>
+    <li>FLIK</li>
+  </ol>
+  <hr>
+  <h3>Skills</h3>
+  <table cellspacing="10">
+    <tr>
+      <td>
+        <table cellspacing="10">
+          <tr>
+            <td>Python </td>
+            <td> 🐍🐍🐍</td>
+          </tr>
+          <tr>
+            <td> Web Development </td>
+            <td>🕸🕸</td>
+          </tr>
+          </table>
+      </td>
+      <td>
+        <table cellspacing =10>
+          <tr>
+              <td>Snowboarding</td>
+              <td>🏂🏂🏂🏂🏂</td>
+          </tr>
+          <tr>
+              <td>Cycling</td>
+              <td>🚲🚲🚲</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  <a href="overview.html"><str>Overview</str></a>
+  <br>
+  <a href="hobbies.html"><str>Hobbies</str></a>
+  <br>
+  <a href="contactme.html"><str>Contact Me</str></a>
+  <br>
 
-### Jekyll Themes
+</body>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lschimmel/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
